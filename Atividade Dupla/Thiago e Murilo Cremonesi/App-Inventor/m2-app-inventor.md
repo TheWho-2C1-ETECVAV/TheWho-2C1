@@ -29,21 +29,13 @@ Testar as funções de inserção de texto, imagens e botões.
 O aplicativo possui três botões, um que insere o texto "hello world", um que limpa o texto e outro que fecha o aplicativo.
 
 
-
 ### Prints
 
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/3d057ae0-18a1-4a99-b4fd-8240155bc86b>
 
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/0554cbc3-4d15-4726-96a2-086eaff81537>
 
-![WhatsApp Image 2026-03-29 at 10 53 40 (1)](https://github.com/user-attachments/assets/0554cbc3-4d15-4726-96a2-086eaff81537)
-
-
-
-
-<img title="" src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.53.40%20(1).jpeg" alt="WhatsApp Image 2026-03-29 at 10.53.40 (1).jpeg" width="340">
-
-![WhatsApp Image 2026-03-29 at 10.55.47 (1).jpeg](D:\Tecnico\Prints\WhatsApp%20Image%202026-03-29%20at%2010.55.47%20(1).jpeg)
-
-
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/f803d80b-5fec-4ab0-8387-32c24bada46f>
 
 # Projeto 2 - Segundo Aplicativo
 
@@ -58,28 +50,17 @@ Testar as funções de cores no MIT app inventor.
 O aplicativo possui seis botões, quatro para selecionar a cor e desenhar na imagem, um botão para limpar o desenho e um para fechar o app.
 
 
-
 ### Prints
 
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/45c55475-8214-4d29-97c9-2ae23c035d44>
 
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/84a623ee-e2c2-4b2c-8e0c-eddeb95a0868>
 
-<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.53.40%20(2).jpeg" title="" alt="WhatsApp Image 2026-03-29 at 10.53.40 (2).jpeg" width="344">
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/6198b8d6-4b7d-474d-8171-5534811e6f04>
 
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/9fb4bbe0-3508-4a92-b61b-3804a4abf6c8>
 
-
-<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.53.40%20(3).jpeg" title="" alt="WhatsApp Image 2026-03-29 at 10.53.40 (3).jpeg" width="342">
-
-
-
-<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.53.40%20(4).jpeg" title="" alt="WhatsApp Image 2026-03-29 at 10.53.40 (4).jpeg" width="340">
-
-
-
-<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.53.40%20(5).jpeg" title="" alt="WhatsApp Image 2026-03-29 at 10.53.40 (5).jpeg" width="339">
-
-<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.55.47.jpeg" title="" alt="WhatsApp Image 2026-03-29 at 10.55.47.jpeg" width="340">
-
-
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/0bc34422-a96c-4657-8a55-3e9cd71db16c>
 
 # Projeto 3 - Terceiro Aplicativo
 
@@ -94,25 +75,8 @@ Testar as funções de audio e adicionar imagens como botões.
 O aplicativo possui uma imagem de um liquidificador como botão, ao clicar nele, produz um som de liquidificador.
 
 
-
 ### Prints
 
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/78eb4ff5-5621-4f09-91d7-786fe1b8b29f>
 
-
-<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2020.08.06.jpeg" title="" alt="WhatsApp Image 2026-03-29 at 20.08.06.jpeg" width="330">
-
-<img title="" src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2020.26.59.jpeg" alt="WhatsApp Image 2026-03-29 at 20.26.59.jpeg" width="330">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/478044e7-3e10-44ce-b886-3ebbac8596f4>
