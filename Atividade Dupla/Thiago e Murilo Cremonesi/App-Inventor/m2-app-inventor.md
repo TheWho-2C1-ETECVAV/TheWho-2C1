@@ -34,7 +34,8 @@ O aplicativo possui três botões, um que insere o texto "hello world", um que l
 
 
 
-<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.53.40.jpeg" title="" alt="WhatsApp Image 2026-03-29 at 10.53.40.jpeg" width="342">
+![WhatsApp Image 2026-03-29 at 10 53 40 (1)](https://github.com/user-attachments/assets/0554cbc3-4d15-4726-96a2-086eaff81537)
+
 
 
 
