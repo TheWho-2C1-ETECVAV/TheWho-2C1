@@ -31,7 +31,7 @@ O aplicativo possui três botões, um que insere o texto "hello world", um que l
 
 ### Prints
 
-<img width="460" height="1000" alt="image" scr=https://github.com/user-attachments/assets/3d057ae0-18a1-4a99-b4fd-8240155bc86b>
+<img width="920" height="1600" alt="image" scr=https://github.com/user-attachments/assets/3d057ae0-18a1-4a99-b4fd-8240155bc86b>
 
 <img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/0554cbc3-4d15-4726-96a2-086eaff81537>
 
