@@ -6,10 +6,6 @@ Sessions oferecem mais segurança ao armazenar os dados do usúario no servidor.
 
 Comumente os cookies são preferíveis para armazenar informações como idioma, temas, layout etc. Ou seja, dados leves, não sensíveis e para serem armazenados a longo prazo. Enquanto sessions são melhores para dados temporários que são necessário durante a navegação no site, como carrinhos de compra, dados de login etc. Ou dados sensíveis que necessitam de estarem seguros como dados pessoais.
 
-
-
-# 
-
 ## Exercício 4 - Por que sessions são geralmente preferidas para autenticação de usuários
 
 Sessions são mais comuns para autenticação de usuários principalmente pela segurança, pois ao utilizar cookies, os dados são armazenados no navegador, assim podendo ser manipulados pelo usúario, além de vírus e etc. Ao alocar os dados em sessions no servidor, evita qualquer manipulação do usúario, ou vírus, além de ao usar sessions além dos cookies, protege dados confindenciais e etc. Pois ao usar apenas cookies todos os dados ficam acessíveis ao usúario.
