@@ -15,7 +15,6 @@ Desenvolvimento de Sistemas
 Murilo Felipe Cremonesi de Morais e Thiago de Souza Andriolli
 
 
-
 # Projeto 1 - Primeiro Aplicativo
 
 ### Descrição
