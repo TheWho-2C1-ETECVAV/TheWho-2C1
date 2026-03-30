@@ -123,3 +123,4 @@ O aplicativo possui uma imagem de um liquidificador como botão, ao clicar nele,
 
 ### Imagem 
 <img width="460" height="800" alt="image" src="https://github.com/user-attachments/assets/f817afb1-d774-437d-b4d4-8f8eea9c4bf3" />
+
