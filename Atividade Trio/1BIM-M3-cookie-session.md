@@ -1,4 +1,4 @@
-## Exercício 1 — Diferença entre cookies e sessions
+## Exercício 1 - Diferença entre cookies e sessions
 
 Cookies são arquivos de texto que são armazenados no navegador do usúario, para que o servidor se lembre das informações do usúario, como temas, login e idioma.   Por serem armazenados no navegador do usúario, os cookies são mais vulneráveis a ataques como *Croos-Site* ou *Scripting*(XSS).
 
