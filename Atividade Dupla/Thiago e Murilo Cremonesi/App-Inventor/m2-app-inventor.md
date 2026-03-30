@@ -31,13 +31,14 @@ O aplicativo possui três botões, um que insere o texto "hello world", um que l
 
 ### Prints
 
-!<img width="920" height="1600" alt="image" scr=https://github.com/user-attachments/assets/3d057ae0-18a1-4a99-b4fd-8240155bc86b/>
+<img width="460" height="800" alt="image" src="https://github.com/user-attachments/assets/8df498e4-8ff9-4c89-bbb5-e23dd3aaa685" />
 
-![WhatsApp Image 2026-03-29 at 10 53 40 (1)](https://github.com/user-attachments/assets/4dad4c2b-69ed-4aa5-9fa4-e7eac9e33b63)
+<img width="460" height="800" alt="image" src="https://github.com/user-attachments/assets/e0b9941e-baf7-419a-a238-a5bd795da76f" />
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/0554cbc3-4d15-4726-96a2-086eaff81537>
+### Codigo -
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/f803d80b-5fec-4ab0-8387-32c24bada46f>
+<img width="757" height="364" alt="image" src="https://github.com/user-attachments/assets/0636f9d0-5181-4139-b60b-a0c316651b23" />
+
 
 # Projeto 2 - Segundo Aplicativo
 
@@ -54,15 +55,18 @@ O aplicativo possui seis botões, quatro para selecionar a cor e desenhar na ima
 
 ### Prints
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/45c55475-8214-4d29-97c9-2ae23c035d44>
+<img width="460" height="800" alt="image" src="https://github.com/user-attachments/assets/59eca8ab-a3da-4329-86db-6f9a4102a068" />
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/84a623ee-e2c2-4b2c-8e0c-eddeb95a0868>
+<img width="460" height="800" alt="image" src="https://github.com/user-attachments/assets/ea682b11-640c-4cb4-8f4b-3dc38ae23732" />
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/6198b8d6-4b7d-474d-8171-5534811e6f04>
+<img width="460" height="800" alt="image" src="https://github.com/user-attachments/assets/c672d98b-b99d-4d27-8ee0-21ad28f3f3da" />
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/9fb4bbe0-3508-4a92-b61b-3804a4abf6c8>
+<img width="460" height="800" alt="image" src="https://github.com/user-attachments/assets/8bee75d2-996c-4fd6-8ed7-1e9218a3d21c" />
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/0bc34422-a96c-4657-8a55-3e9cd71db16c>
+### Codigo -
+
+<img width="960" height="667" alt="image" src="https://github.com/user-attachments/assets/199515c5-e061-4275-b2e5-28be36b09f1b" />
+
 
 # Projeto 3 - Terceiro Aplicativo
 
@@ -79,9 +83,10 @@ O aplicativo possui uma imagem de um liquidificador como botão, ao clicar nele,
 
 ### Prints
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/78eb4ff5-5621-4f09-91d7-786fe1b8b29f>
+<img width="460" height="800" alt="image" src="https://github.com/user-attachments/assets/47c68b08-d5b4-44ae-aa0c-4ac03c6338f9" />
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/be6e80b0-976f-4386-8b87-a351a064a290>
+### Codigo -
+
 <img width="297" height="143" alt="image" src="https://github.com/user-attachments/assets/02c3a450-aa57-4c33-b933-0fe83b134629" />
 
 ## Questão 4 - Usando Câmera 
