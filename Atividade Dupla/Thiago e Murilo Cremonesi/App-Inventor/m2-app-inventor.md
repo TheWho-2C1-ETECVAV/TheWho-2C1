@@ -81,4 +81,5 @@ O aplicativo possui uma imagem de um liquidificador como botão, ao clicar nele,
 
 <img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/78eb4ff5-5621-4f09-91d7-786fe1b8b29f>
 
-<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/478044e7-3e10-44ce-b886-3ebbac8596f4>
+<img width="460" height="800" alt="image" scr=https://github.com/user-attachments/assets/be6e80b0-976f-4386-8b87-a351a064a290>
+
