@@ -62,7 +62,7 @@ O aplicativo possui seis botões, quatro para selecionar a cor e desenhar na ima
 
 
 
-<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.53.40%20(2).jpeg" title="" alt="WhatsApp Image 2026-03-29 at 10.53.40 (2).jpeg" width="20%">
+<img src="file:///D:/Tecnico/Prints/WhatsApp%20Image%202026-03-29%20at%2010.53.40%20(2).jpeg" title="" alt="WhatsApp Image 2026-03-29 at 10.53.40 (2).jpeg" width="344">
 
 
 
