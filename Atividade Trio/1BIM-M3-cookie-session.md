@@ -14,6 +14,19 @@ Para manter o usuário logado, os dados sensíveis ficam no servidor via session
 
 A regra geral é: dados sensíveis vão para a session no servidor, dados não sensíveis que precisam persistir vão para cookies. Pela LGPD, cookies de autenticação e carrinho são estritamente necessários, mas os de preferências exigem consentimento do usuário.
 
+## Exercício 3 — Pergunta de investigação
+
+– O que aconteceu em cada etapa?
+
+1. Na primeira execução, a página exibe a mensagem: "Cookie ainda não disponível" no canto da tela. O cookie ainda não aparece porque ele acabou de ser enviado e ainda não foi retornado pelo navegador.
+2. Após atualizar a página, exibe-se a mensagem: "Valor do cookie: 1" no canto da tela. O cookie passa a ser exibido porque o navegador já o enviou ao servidor.
+3. Ao acessar as ferramentas do navegador, é possível visualizar o cookie armazenado.
+4. Ao limpar os cookies e atualizar novamente, o valor deixa de aparecer, pois o cookie foi removido.
+
+– Por que o cookie não aparece imediatamente na primeira execução?
+
+O cookie não aparece imediatamente porque, primeiro, o servidor (PHP) envia o cookie; em seguida, o navegador o recebe e o armazena. Somente na próxima requisição o navegador devolve o cookie ao servidor.
+
 ## Exercício 4 - Por que sessions são geralmente preferidas para autenticação de usuários
 
 Sessions são mais comuns para autenticação de usuários principalmente pela segurança, pois ao utilizar cookies, os dados são armazenados no navegador, assim podendo ser manipulados pelo usúario, além de vírus e etc. Ao alocar os dados em sessions no servidor, evita qualquer manipulação do usúario, ou vírus, além de ao usar sessions além dos cookies, protege dados confindenciais e etc. Pois ao usar apenas cookies todos os dados ficam acessíveis ao usúario.
